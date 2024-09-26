@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf49f3a3-4bce-4c53-a41a-5bd0d83f67d9" name="portal">
+        <fileTransfer rootFolder="/home/parzival/demo-cs" accessType="SFTP" host="portal" port="22" sshConfigId="c06e7b9e-3554-40ac-ab5c-2370619e3fa9" sshConfig="parzival@portal:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

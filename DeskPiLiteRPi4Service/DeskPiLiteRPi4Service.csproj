@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-DeskPiLiteRPi4Service-41b8127e-5620-4591-bb2c-06e2f25a737a</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Iot.Device.Bindings" Version="3.2.0" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0"/>
+        <PackageReference Include="Microsoft.Extensions.Hosting.Systemd" Version="8.0.0" />
+        <PackageReference Include="System.Device.Gpio" Version="3.2.0" />
+        <PackageReference Include="System.IO.Ports" Version="8.0.0" />
+    </ItemGroup>
+</Project>
