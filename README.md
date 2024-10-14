@@ -13,7 +13,7 @@ This list contains all currently supported DeskPi cases:
 | Case                                | Raspberry Pi   | Case Features                                                     | Support |
 |:------------------------------------|:---------------|:------------------------------------------------------------------|:-------:|
 | DeskPi Lite for Raspberry Pi 3B/3B+ | Raspberry Pi 3 | - Fan Control                                                     |   ✔️    |
-| DeskPi Lite                         | Raspberry Pi 4 | - Fan Control (PWM)<br/>- Gracefully Shutdown<br/>- Quick Reboot  |    ❌    |
+| DeskPi Lite                         | Raspberry Pi 4 | - Fan Control (PWM)<br/>- Gracefully Shutdown<br/>- Quick Reboot  |    ✔️    |
 | DeskPi Pro                          | Raspberry Pi 4 | - Fan Control (PWM)<br/>- Gracefully Shutdown<br/>- Quick Reboot  |    ❌    |
 
 ✔️ Supported  
